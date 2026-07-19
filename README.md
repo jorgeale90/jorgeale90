@@ -10,8 +10,8 @@
 
 <br/><br/>
 
-<!-- Mario running (add the gif to your repo: assets/mario-running.gif) -->
-<img src="assets/mario-running.gif" alt="Mario running" height="60"/>
+<!-- Animated Mario runner (commit assets/mario-run.svg to your repo) -->
+<img src="assets/mario-run.svg" alt="Mario running" width="90%"/>
 
 <br/><br/>
 
@@ -113,9 +113,6 @@
 
 ### 🏁 Thanks for playing!
 
-<img src="assets/mario-flag.gif" alt="Mario flag" height="80"/>
-
-*"Thank you Mario! But your next opportunity is in another castle..."* 🏰
 **Let's talk:** [jorgealec90@gmail.com](mailto:jorgealec90@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcb05,50:e60012,100:1a1b27&height=120&section=footer" width="100%"/>
